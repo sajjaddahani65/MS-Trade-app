@@ -1,0 +1,6 @@
+{
+  "name": "BTC Dana",
+  "description": "Online trading app for Forex, Crypto, Gold, and Indices with live candlestick charts, free demo account, instant trading, and trading signals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
